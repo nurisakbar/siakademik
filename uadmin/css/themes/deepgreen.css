@@ -1,0 +1,136 @@
+/*
+ *  Document   : deepgreen.css
+ *  Author     : pixelcave
+ *  Description: #365917 -THEME DEEPGREEN
+ *
+ */
+
+.navbar.navbar-inverse {
+    background: #365917;
+}
+
+.navbar.navbar-inverse .divider-vertical {
+    opacity: 0.1;
+    filter: alpha(opacity=10);
+    border-left: 1px solid #fff;
+    border-right: 1px solid #999;
+}
+
+.daterangepicker .ranges li,
+#sidebar-search input[type=text],
+a,
+a:hover,
+a:active,
+a:focus,
+#nav-info > li.active a,
+.error-code,
+.wizard-steps > div.active,
+.plan-featured h1,
+a.btn-theme-options:hover,
+a.list-group-item,
+.btn-link,
+.btn-link:hover,
+.btn-link:focus,
+.btn-link:active,
+.btn-link.active,
+.btn-link.disabled,
+.btn-link[disabled],
+.pagination > li > a,
+.pagination > li > span,
+.pagination > li > a:hover,
+.pagination > li > span:hover,
+.pagination > li > a:focus,
+.pagination > li > span:focus {
+    color: #365917;
+}
+
+.fc-cell-overlay,
+.fc-state-hover,
+.fc-state-hover .fc-button-inner,
+.fc-state-down,
+.fc-state-down .fc-button-inner,
+.fc-state-active,
+.fc-state-active .fc-button-inner,
+.fc-event,
+.daterangepicker .ranges li.active,
+.daterangepicker .ranges li:hover,
+.daterangepicker td.active,
+.daterangepicker td.active:hover,
+.datepicker td.active,
+.datepicker td.active:hover,
+.datepicker td.active:hover,
+.datepicker td.active:hover:hover,
+.datepicker td.active:focus,
+.datepicker td.active:hover:focus,
+.datepicker td.active:active,
+.datepicker td.active:hover:active,
+.datepicker td.active.active,
+.datepicker td.active:hover.active,
+.datepicker td.active.disabled,
+.datepicker td.active:hover.disabled,
+.datepicker td.active[disabled],
+.datepicker td.active:hover[disabled],
+.datepicker td span.active,
+.datepicker td span.active:hover,
+.datepicker td span.active:focus,
+.datepicker td span.active:active,
+.datepicker td span.active.active,
+.datepicker td span.active.disabled,
+.datepicker td span.active[disabled],
+.datepicker td span.active:active,
+.datepicker td span.active.active,
+.bootstrap-timepicker-widget table td a:hover,
+.chosen-container .chosen-results li.highlighted,
+.jqvmap-zoomin:hover, .jqvmap-zoomout:hover,
+.nav-dash > li > a:hover,
+.nav-dash > li.active > a,
+.fc-external-event,
+.plan-featured .plan-header,
+.inbox-messages-content-actions a:hover,
+.chat-messages .chat-msg-left,
+.chat-input,
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus,
+.dropdown-submenu:hover > a,
+.dropdown-submenu:focus > a,
+.dropdown-menu > li.active > a,
+.dropdown-menu > li.active > a:hover,
+.dropdown-menu > li.active > a:focus,
+.nav-pills > li.active > a,
+.nav-pills > li.active > a:hover,
+.nav-pills > li.active > a:focus,
+.pagination > li.active > a,
+.pagination > li.active > a:hover,
+.pagination > li.active > span,
+.select2-results .select2-highlighted {
+    background-color: #365917;
+}
+
+.datepicker td.active:active,
+.datepicker td.active:hover:active,
+.datepicker td.active.active,
+.datepicker td.active:hover.active {
+    background-color: #365917 \9;
+}
+
+.fc-state-hover,
+.fc-state-hover .fc-button-inner,
+.fc-state-down,
+.fc-state-down .fc-button-inner,
+.fc-state-active,
+.fc-state-active .fc-button-inner,
+.fc-event,
+#primary-nav li a.active,
+.nav-dash > li > a:hover,
+.nav-dash > li.active > a,
+.pagination > li.active > a,
+.pagination > li.active > a:hover,
+.pagination > li.active > span,
+a.thumbnail:hover,
+a.thumbnail:focus {
+    border-color: #365917;
+}
+
+.inbox-messages-container {
+    border-left-color: #365917;
+}
